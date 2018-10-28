@@ -12,7 +12,7 @@
 
 当有多个模块时，我们需要有多个 MVC 互相配合：
 
-![avator](https://coding.net/u/joeyxu/p/Resources/git/raw/master/MVCs%20working%20together.png)
+![avator](https://github.com/Joeyqiushi/BC-DesignPattern-OC/blob/master/BC-Demo/MVCs%20working%20together.png)
 
 可以看到，多个模块之间的交互都是通过 Controller 层。以上就是 MVC 的概览，那么 MVVM 是什么样的呢？
 
